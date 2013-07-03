@@ -4122,5 +4122,17 @@
       "kapaliVar":false,
       "tarih":"01-07-2013, Mon",
       "dosya":"b12701h.txt"
+   },
+   {
+      "oturumlar":[
+         {
+            "bitis":"18.14",
+            "baslangic":"15.01",
+            "kapali":false
+         }
+      ],
+      "kapaliVar":false,
+      "tarih":"02-07-2013, Tue",
+      "dosya":"b12801h.txt"
    }
 ]
