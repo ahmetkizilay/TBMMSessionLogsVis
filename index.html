@@ -137,7 +137,7 @@ var xAxis = d3.svg.axis()
 
 var yAxis = d3.svg.axis()
     .scale(y)
-    .ticks(24)
+    .ticks(1440)
     .orient("left");
     //.tickFormat(d3.time.format("%H:%M"));
 
@@ -232,7 +232,11 @@ var svg = d3.select("#chart").append("svg")
 	// });
 
   // x.domain(d3.extent(data, function(d) { return d.date; }));
-  x.domain([parseDate("30-09-2012, Sun"),parseDate("02-07-2013, Tue")]);
+
+  // xDomainMax not giving me the result I expect... 
+  var xDomainMax = new Date(parseDate(data[data.length - 1].tarih) + 86400000);
+  var xDomainMin = new Date(parseDate(data[0].tarih) - 86400000);
+  x.domain([xDomainMin, xDomainMax]);
   r.domain([0, d3.max(data, function(j) { return d3.max(j.oturumlar, function(d) { return d.sessionDuration; })})])
   y.domain([0, 1440]);
 
