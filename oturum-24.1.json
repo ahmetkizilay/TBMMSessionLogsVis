@@ -1,0 +1,184 @@
+[
+  {
+    "oturumlar": [
+      {
+        "bitis": "19.57",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "22.38",
+        "baslangic": "21.03",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": true,
+    "tarih": "28-06-2011, Tue",
+    "dosya": "b00101h.txt"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.01",
+        "baslangic": "14.03",
+        "kapali": false
+      },
+      {
+        "bitis": "16.37",
+        "baslangic": "15.10",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": true,
+    "tarih": "04-07-2011, Mon",
+    "dosya": "b00201h.txt"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.38",
+        "baslangic": "15.03",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "05-07-2011, Tue",
+    "dosya": "b00301h.txt"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.13",
+        "baslangic": "15.00",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "06-07-2011, Wed",
+    "dosya": "b00401h.txt"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.04",
+        "baslangic": "15.00",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "07-07-2011, Thu",
+    "dosya": "b00501h.txt"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "17.02",
+        "baslangic": "15.03",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "08-07-2011, Fri",
+    "dosya": "b00601h.txt"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "17.52",
+        "baslangic": "15.08",
+        "kapali": false
+      },
+      {
+        "bitis": "20.46",
+        "baslangic": "18.05",
+        "kapali": false
+      },
+      {
+        "bitis": "22.15",
+        "baslangic": "21.17",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "11-07-2011, Mon",
+    "dosya": "b00701h.txt"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.23",
+        "baslangic": "15.03",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "12-07-2011, Tue",
+    "dosya": "b00801h.txt"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.19",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "17.47",
+        "baslangic": "16.27",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "13-07-2011, Wed",
+    "dosya": "b00901h.txt"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.43",
+        "baslangic": "15.01",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "14-07-2011, Thu",
+    "dosya": "b01001h.txt"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "19.08",
+        "baslangic": "18.02",
+        "kapali": false
+      },
+      {
+        "bitis": "20.08",
+        "baslangic": "19.49",
+        "kapali": false
+      },
+      {
+        "bitis": "21.37",
+        "baslangic": "20.11",
+        "kapali": false
+      },
+      {
+        "bitis": "22.04",
+        "baslangic": "21.49",
+        "kapali": false
+      },
+      {
+        "bitis": "22.38",
+        "baslangic": "22.08",
+        "kapali": false
+      },
+      {
+        "bitis": "23.19",
+        "baslangic": "22.44",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "15-07-2011, Fri",
+    "dosya": "b01101h.txt"
+  }
+]
