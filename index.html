@@ -16,7 +16,7 @@
     .axis path,
     .axis line {
       fill: none;
-      stroke: #999;
+      stroke: #ccc;
       shape-rendering: crispEdges;
     }
 
@@ -75,12 +75,16 @@ var margin = {top: 40, right: 100, bottom: 30, left: 40},
 
 var parseDate = d3.time.format("%d-%m-%Y, %a").parse;
 var parseTime = d3.time.format("%H.%M").parse;
+var formatDate = d3.time.format("%d-%m-%Y, %a"),
+    formatTime = d3.time.format("%H:%M"),
+    formatMinutes = function(d) { return formatTime(new Date(2012, 0, 1, 10, d)); };
+
 var color = d3.scale.category10();
 
 var x = d3.time.scale()
     .range([0, width]);
 
-var y = d3.time.scale()
+var y = d3.scale.linear()
     .range([0, height]);    
 
 var r = d3.scale.sqrt()
@@ -137,9 +141,10 @@ var xAxis = d3.svg.axis()
 
 var yAxis = d3.svg.axis()
     .scale(y)
-    .ticks(1440)
-    .orient("left");
-    //.tickFormat(d3.time.format("%H:%M"));
+    // .ticks(1440)
+    .orient("left")
+    // .tickFormat(d3.time.format("%H:%M"));
+    .tickFormat(formatMinutes);
 
 var svg = d3.select("#chart").append("svg")
     .attr("width", width + margin.left + margin.right)
@@ -214,31 +219,12 @@ var svg = d3.select("#chart").append("svg")
     }
   });
 
- //  data.forEach(function(d) {
- //    d.date = parseDate(d.tarih);
- //    d.close = d.oturumlar.length;
-    
- //    d.oturumlar.forEach(function(e) {
- //      if (e.baslangic == "" ) {e.baslangic = "07.00"}
- //      if (e.bitis == "" ) {e.bitis = "09.00"}
- //    	e.tarih = d.tarih;
- //      e.date = d.date;
- //    	e.time1 = parseTime(e.baslangic);
- //    	e.time2 = parseTime(e.bitis);
-
- //      // if (e.time2 < e.time1) {  }
- //    	e.duration = e.time2 - e.time1;
- //    });
-	// });
-
   // x.domain(d3.extent(data, function(d) { return d.date; }));
-
-  // xDomainMax not giving me the result I expect... 
-  var xDomainMax = new Date(parseDate(data[data.length - 1].tarih) + 86400000);
-  var xDomainMin = new Date(parseDate(data[0].tarih) - 86400000);
+  var xDomainMax = d3.time.day.offset(new Date(parseDate(data[data.length - 1].tarih)), 1);
+  var xDomainMin = d3.time.day.offset(new Date(parseDate(data[0].tarih)), -1);
   x.domain([xDomainMin, xDomainMax]);
-  r.domain([0, d3.max(data, function(j) { return d3.max(j.oturumlar, function(d) { return d.sessionDuration; })})])
-  y.domain([0, 1440]);
+  y.domain([0, d3.max(data, function(j) { return d3.max(j.oturumlar, function(d) { return d.sessionOffset; })})])
+  // y.domain([0, 1440]);
 
   svg.append("g")
       .attr("class", "x axis")
@@ -270,7 +256,9 @@ var svg = d3.select("#chart").append("svg")
       .data(function(d){return d.oturumlar})
     .enter().append("rect")
       .attr("class", "oturum")
-      .attr("x", function(d) { return x(d.date) - 1.5; })
+      .attr("x", function(d) { 
+        // console.log(d);
+        return x(d.date) - 1.5; })
       .attr("y", function(d,i) { return y(d.sessionOffset); })
       .attr("width", 3)
       .attr("height", function(d,i) { return Math.abs(y(d.sessionDuration)); })
@@ -283,7 +271,7 @@ var svg = d3.select("#chart").append("svg")
             var k =  "Evet";
             if (d.kapali) { k = "Hayir"}
         
-            return "Tarih: <b>"+d["tarih"] + "</b><br>" 
+            return "Tarih: <b>"+formatDate(d["date"]) + "</b><br>" 
             + "Saat : <b>"+d["baslangic"] + " - " +d["bitis"] + "</b><br>" 
             + "Acik Oturum: <b>"+ k + "</b><br>";
           }));
