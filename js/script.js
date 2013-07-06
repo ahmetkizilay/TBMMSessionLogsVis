@@ -157,7 +157,7 @@ var svg = d3.select("#chart").append("svg")
 
   x.domain([d3.time.day.offset(new Date(parseDate(data[0].tarih)), -1),
             d3.time.day.offset(new Date(parseDate(data[data.length - 1].tarih)), 1)]);
-  y.domain([0, d3.max(data, function(j) { return d3.max(j.oturumlar, function(d) { return d.sessionOffset + d.sessionDuration; })})])
+  y.domain([0, d3.max(data, function(j) { return d3.max(j.oturumlar, function(d) { return d.sessionOffset + d.sessionDuration; }); })]);
   //y.domain([0, 1440]);
 
   svg.append("g")
@@ -168,7 +168,7 @@ var svg = d3.select("#chart").append("svg")
       .style("text-anchor", "end")
       .attr("dx", "4em")
       .attr("dy", "1.2em")
-      .attr("transform", function(d) { return "rotate(-90)" });;
+      .attr("transform", function(d) { return "rotate(-90)"; });
 
   svg.append("g")
       .attr("class", "y axis")
@@ -177,7 +177,7 @@ var svg = d3.select("#chart").append("svg")
       .attr("transform", "rotate(-90)")
       .attr("y", 6)
       .attr("dy", ".71em")
-      .style("text-anchor", "end")
+      .style("text-anchor", "end");
       // .text("Saat)");
   
    var oturum = svg.selectAll(".oturumlar")
