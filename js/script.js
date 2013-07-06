@@ -1,18 +1,22 @@
-
+//  Data Array
 var data = [];
 
+// SVG Object Setup
 var margin = {top: 40, right: 100, bottom: 30, left: 40},
-    width = 3500 - margin.left - margin.right,
+    width = 2000 - margin.left - margin.right,
     height = 800 - margin.top - margin.bottom;
 
+// Date parsers & formatters
 var parseDate = d3.time.format("%d-%m-%Y, %a").parse;
 var parseTime = d3.time.format("%H.%M").parse;
 var formatDate = d3.time.format("%d-%m-%Y, %a"),
     formatTime = d3.time.format("%H:%M"),
     formatMinutes = function(d) { return formatTime(new Date(2012, 0, 1, 10, d)); };
 
+// Color Scale
 var color = d3.scale.category10();
 
+// x,y, radius scale
 var x = d3.time.scale()
     .range([0, width]);
 
@@ -22,7 +26,9 @@ var y = d3.scale.linear()
 var r = d3.scale.sqrt()
     .range([0.5, 15]);        
 
+// Load json
 d3.json("data/oturum-24.3.json", processData);
+
 
 function calculateDurationInMins(from, to) {
   var fromParts = from.split('.');
@@ -64,18 +70,15 @@ function draw () {
 
 function update () {
 
-
 var xAxis = d3.svg.axis()
     .scale(x)
-    .ticks(d3.time.days, 1)
+    .ticks(d3.time.weeks, 1)
     .orient("top")
     .tickFormat(d3.time.format("%d %b"));
 
 var yAxis = d3.svg.axis()
     .scale(y)
-    // .ticks(1440)
     .orient("left")
-    // .tickFormat(d3.time.format("%H:%M"));
     .tickFormat(formatMinutes);
 
 var svg = d3.select("#chart").append("svg")
@@ -151,10 +154,9 @@ var svg = d3.select("#chart").append("svg")
     }
   });
 
-  // x.domain(d3.extent(data, function(d) { return d.date; }));
-  var xDomainMax = d3.time.day.offset(new Date(parseDate(data[data.length - 1].tarih)), 1);
-  var xDomainMin = d3.time.day.offset(new Date(parseDate(data[0].tarih)), -1);
-  x.domain([xDomainMin, xDomainMax]);
+
+  x.domain([d3.time.day.offset(new Date(parseDate(data[0].tarih)), -1),
+            d3.time.day.offset(new Date(parseDate(data[data.length - 1].tarih)), 1)]);
   y.domain([0, d3.max(data, function(j) { return d3.max(j.oturumlar, function(d) { return d.sessionOffset; })})])
   // y.domain([0, 1440]);
 
@@ -190,23 +192,22 @@ var svg = d3.select("#chart").append("svg")
       .attr("class", "oturum")
       .attr("x", function(d) { 
         // console.log(d);
-        return x(d.date) - 1.5; })
+        return x(d.date) - 2; })
       .attr("y", function(d,i) { return y(d.sessionOffset); })
-      .attr("width", 3)
+      .attr("width", 4)
       .attr("height", function(d,i) { return Math.abs(y(d.sessionDuration)); })
       .style("fill", function(d) { 
-        if (d.kapali) { return "#cc0000" } return "#666"  })
+        if (d.kapali) { return "#cc0000" } return "#666" })
       .call(d3.helper.tooltip()
         .attr("class", function(d, i) { d["tarih"] })
         .attr("d", "b")
         .text(function(d, i){
-            var k =  "Evet";
-            if (d.kapali) { k = "Hayir"}
-        
+            var k =  "Acik Oturum";
+            if (d.kapali) { k = "Kapali Oturum"}
             return "Tarih: <b>"+formatDate(d["date"]) + "</b><br>" 
-            + "Saat : <b>"+d["baslangic"] + " - " +d["bitis"] + "</b><br>" 
-            + "Acik Oturum: <b>"+ k + "</b><br>";
-          }));
+                  + "Saat : <b>"+d["baslangic"] + " - " +d["bitis"] + "</b><br>" 
+                  + "<b>"+ k + "</b><br>";
+        }));
 
 }
 
@@ -226,7 +227,7 @@ d3.helper.tooltip = function(){
     function tooltip(selection) {
  
         selection.on("mouseover", function(d, i){
-
+            d3.select(this).style("fill", "#000")
             var name, value;
             // Clean up lost tooltips
             d3.select('body').selectAll('div.tooltip').remove();
@@ -274,6 +275,8 @@ d3.helper.tooltip = function(){
         .on("mouseout", function(d, i){
             // Remove tooltip
             tooltipDiv.remove();
+            d3.select(this).style("fill", function(d) { 
+        if (d.kapali) { return "#cc0000" } return "#666" })
         });
  
     }
