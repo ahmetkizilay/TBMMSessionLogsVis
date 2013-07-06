@@ -1,0 +1,41 @@
+body {
+  font-family: lato, serif;
+  /*font-size: 10px;*/
+  padding: .2em 1em 3em 1em;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #ccc;
+  shape-rendering: crispEdges;
+}
+
+.axis text {
+  font-size: 10px;
+  fill: #999;
+}
+
+.tooltip {
+  font-size: 12px;
+  padding: .5em;
+  background: #fff;
+  border: 1px solid #eee;
+  width: 150px;
+  line-height: 1.5em;
+}
+
+#info {
+  font-size: 13px;
+  float:left;
+  width: 300px;
+}
+
+#info ul {
+  padding: 0 30px 0 0; 
+}
+
+#chart {
+  float: left;
+  width: 100px;
+}

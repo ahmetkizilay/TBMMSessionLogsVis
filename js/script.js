@@ -1,72 +1,4 @@
 
-<!DOCTYPE html>
-<html>
-<head>
-	<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/d3/3.1.6/d3.min.js"></script>
-	<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
-  <script src="http://use.edgefonts.net/lato.js"></script>
-
-	<style>
-    body {
-      font-family: lato, serif;
-      /*font-size: 10px;*/
-      padding: .2em 1em 3em 1em;
-    }
-
-    .axis path,
-    .axis line {
-      fill: none;
-      stroke: #ccc;
-      shape-rendering: crispEdges;
-    }
-
-    .axis text {
-      font-size: 10px;
-      fill: #999;
-     }
-
-    .tooltip {
-      font-size: 12px;
-      padding: .5em;
-      background: #fff;
-      border: 1px solid #eee;
-      width: 150px;
-      line-height: 1.5em;
-    }
-
-    #info {
-      font-size: 13px;
-      float:left;
-      width: 300px;
-    }
-
-    #info ul {
-      padding: 0 30px 0 0; 
-    }
-
-    #chart {
-      float: left;
-      width: 100px;
-    }
-
-
-  </style>
-
-</head>
-<body>
-
-  <div id="info"><h2>TBMM 24. Donem 3. Yasama Yili Oturum Sureleri</h2>
-    <ul>
-      <li>Acik oturumlar 'Gri', Kapali Oturumlar 'Kirmizi' renktedir</li>
-      <li>Kapali oturumlarin saatleri belli olmadigi icin, bir onceki ve sonraki oturumlarin saatlerine gore cizimler yapilmistir.</li>
-      <li>Yasama yili icindeki en erken baslayan oturum esas alinarak y ekseni olusturulmustur.</li>
-      <li>Barlarin ustune gelindiginde oturum detaylari goruntulenebilir</li>
-    </ul>
-  </div>
-  <div id="chart"></div>
-
-<script type="text/javascript">
-
 var data = [];
 
 var margin = {top: 40, right: 100, bottom: 30, left: 40},
@@ -90,6 +22,7 @@ var y = d3.scale.linear()
 var r = d3.scale.sqrt()
     .range([0.5, 15]);        
 
+d3.json("data/oturum-24.3.json", processData);
 
 function calculateDurationInMins(from, to) {
   var fromParts = from.split('.');
@@ -362,8 +295,3 @@ d3.helper.tooltip = function(){
  
     return tooltip;
 };
-
-
-</script>
-</body>
-</html>
