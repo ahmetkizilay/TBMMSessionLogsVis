@@ -7,11 +7,12 @@ var margin = {top: 40, right: 100, bottom: 30, left: 40},
     height = 800 - margin.top - margin.bottom;
 
 // Date parsers & formatters
+var earliestTimeStr = "";
 var parseDate = d3.time.format("%d-%m-%Y, %a").parse;
 var parseTime = d3.time.format("%H.%M").parse;
 var formatDate = d3.time.format("%d-%m-%Y, %a"),
     formatTime = d3.time.format("%H:%M"),
-    formatMinutes = function(d) { return formatTime(new Date(2012, 0, 1, 10, d)); };
+    formatMinutes = function(d) { return formatTime(new Date(2012, 0, 1, earliestTimeStr.substring(0,2), d)); };
 
 // Color Scale
 var color = d3.scale.category10();
@@ -88,6 +89,7 @@ var svg = d3.select("#chart").append("svg")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
   var earliestTime = parseTime("24.00");
+
   data.forEach(function(d) {
     try {
       d.oturumlar.forEach(function(e) {
@@ -105,8 +107,7 @@ var svg = d3.select("#chart").append("svg")
     }
   });
 
-  var earliestTimeStr = simpleTimeFormat(earliestTime);
-  
+  earliestTimeStr = simpleTimeFormat(earliestTime);
 
   // setting session duration and offset for all except closed sessions
   data.forEach(function (d) {
