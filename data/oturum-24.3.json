@@ -4385,5 +4385,169 @@
     "kapaliVar": false,
     "tarih": "05-07-2013, Fri",
     "dosya": "b13101h.txt"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.09",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "16.54",
+        "baslangic": "16.19",
+        "kapali": false
+      },
+      {
+        "bitis": "17.28",
+        "baslangic": "17.04",
+        "kapali": false
+      },
+      {
+        "bitis": "18.01",
+        "baslangic": "17.36",
+        "kapali": false
+      },
+      {
+        "bitis": "18.41",
+        "baslangic": "18.10",
+        "kapali": false
+      },
+      {
+        "bitis": "19.47",
+        "baslangic": "18.50",
+        "kapali": false
+      },
+      {
+        "bitis": "21.05",
+        "baslangic": "20.49",
+        "kapali": false
+      },
+      {
+        "bitis": "21.26",
+        "baslangic": "21.22",
+        "kapali": false
+      },
+      {
+        "bitis": "22.58",
+        "baslangic": "21.56",
+        "kapali": false
+      },
+      {
+        "bitis": "00.03",
+        "baslangic": "23.09",
+        "kapali": false
+      },
+      {
+        "bitis": "01.18",
+        "baslangic": "00.08",
+        "kapali": false
+      },
+      {
+        "bitis": "01.58",
+        "baslangic": "01.26",
+        "kapali": false
+      },
+      {
+        "bitis": "02.19",
+        "baslangic": "02.14",
+        "kapali": false
+      },
+      {
+        "bitis": "02.32",
+        "baslangic": "02.26",
+        "kapali": false
+      },
+      {
+        "bitis": "02.34",
+        "baslangic": "02.33",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "06-07-2013, Sat",
+    "dosya": "b13201h.txt"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.33",
+        "baslangic": "14.01",
+        "kapali": false
+      },
+      {
+        "bitis": "14.59",
+        "baslangic": "14.45",
+        "kapali": false
+      },
+      {
+        "bitis": "16.02",
+        "baslangic": "15.05",
+        "kapali": false
+      },
+      {
+        "bitis": "16.44",
+        "baslangic": "16.13",
+        "kapali": false
+      },
+      {
+        "bitis": "17.03",
+        "baslangic": "16.52",
+        "kapali": false
+      },
+      {
+        "bitis": "17.47",
+        "baslangic": "17.08",
+        "kapali": false
+      },
+      {
+        "bitis": "18.31",
+        "baslangic": "17.56",
+        "kapali": false
+      },
+      {
+        "bitis": "19.54",
+        "baslangic": "19.30",
+        "kapali": false
+      },
+      {
+        "bitis": "20.47",
+        "baslangic": "20.03",
+        "kapali": false
+      },
+      {
+        "bitis": "21.03",
+        "baslangic": "21.02",
+        "kapali": false
+      },
+      {
+        "bitis": "22.02",
+        "baslangic": "21.19",
+        "kapali": false
+      },
+      {
+        "bitis": "23.06",
+        "baslangic": "22.08",
+        "kapali": false
+      },
+      {
+        "bitis": "23.21",
+        "baslangic": "23.20",
+        "kapali": false
+      },
+      {
+        "bitis": "23.57",
+        "baslangic": "23.26",
+        "kapali": false
+      },
+      {
+        "bitis": "00.04",
+        "baslangic": "00.03",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "07-07-2013, Sun",
+    "dosya": "b13301h.txt"
   }
 ]
