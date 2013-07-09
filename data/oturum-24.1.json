@@ -14,7 +14,7 @@
     ],
     "kapaliVar": true,
     "tarih": "28-06-2011, Tue",
-    "dosya": "b00101h.txt"
+    "dosya": "001"
   },
   {
     "oturumlar": [
@@ -31,7 +31,7 @@
     ],
     "kapaliVar": true,
     "tarih": "04-07-2011, Mon",
-    "dosya": "b00201h.txt"
+    "dosya": "002"
   },
   {
     "oturumlar": [
@@ -43,7 +43,7 @@
     ],
     "kapaliVar": false,
     "tarih": "05-07-2011, Tue",
-    "dosya": "b00301h.txt"
+    "dosya": "003"
   },
   {
     "oturumlar": [
@@ -55,7 +55,7 @@
     ],
     "kapaliVar": false,
     "tarih": "06-07-2011, Wed",
-    "dosya": "b00401h.txt"
+    "dosya": "004"
   },
   {
     "oturumlar": [
@@ -67,7 +67,7 @@
     ],
     "kapaliVar": false,
     "tarih": "07-07-2011, Thu",
-    "dosya": "b00501h.txt"
+    "dosya": "005"
   },
   {
     "oturumlar": [
@@ -79,7 +79,7 @@
     ],
     "kapaliVar": false,
     "tarih": "08-07-2011, Fri",
-    "dosya": "b00601h.txt"
+    "dosya": "006"
   },
   {
     "oturumlar": [
@@ -101,7 +101,7 @@
     ],
     "kapaliVar": false,
     "tarih": "11-07-2011, Mon",
-    "dosya": "b00701h.txt"
+    "dosya": "007"
   },
   {
     "oturumlar": [
@@ -113,7 +113,7 @@
     ],
     "kapaliVar": false,
     "tarih": "12-07-2011, Tue",
-    "dosya": "b00801h.txt"
+    "dosya": "008"
   },
   {
     "oturumlar": [
@@ -130,7 +130,7 @@
     ],
     "kapaliVar": false,
     "tarih": "13-07-2011, Wed",
-    "dosya": "b00901h.txt"
+    "dosya": "009"
   },
   {
     "oturumlar": [
@@ -142,7 +142,7 @@
     ],
     "kapaliVar": false,
     "tarih": "14-07-2011, Thu",
-    "dosya": "b01001h.txt"
+    "dosya": "010"
   },
   {
     "oturumlar": [
@@ -179,6 +179,6 @@
     ],
     "kapaliVar": false,
     "tarih": "15-07-2011, Fri",
-    "dosya": "b01101h.txt"
+    "dosya": "011"
   }
 ]
