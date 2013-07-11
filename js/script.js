@@ -1,5 +1,7 @@
 //  Data Array
-var data = [];
+var data = [],
+    donem = 24,
+    yasamayili = 3;
 
 // SVG Object Setup
 var margin = {top: 40, right: 100, bottom: 30, left: 40},
@@ -112,8 +114,13 @@ var svg = d3.select("#chart").append("svg")
   // setting session duration and offset for all except closed sessions
   data.forEach(function (d) {
     d.date = parseDate(d.tarih);
+    // console.log(d.dosya)
+
+
+    d.link = "http://www.tbmm.gov.tr/tutanak/donem"+donem+"/yil"+yasamayili+"/ozet/"+d.dosya+".htm"
     
     d.oturumlar.forEach(function (e) {
+
       if(!e.kapali) {
         e.sessionDuration = calculateDurationInMins(e.baslangic, e.bitis);
         e.sessionOffset = calculateDurationInMins(earliestTimeStr, e.baslangic);
@@ -187,6 +194,24 @@ var svg = d3.select("#chart").append("svg")
       .attr("class", "oturumlar")
       .attr("x", function(d) { return x(d.date); });
 
+      oturum.append("rect")
+      .attr("class", "oturumozet")
+      .attr("x", function(d) { return x(d.date)-3; })
+      .attr("y", function(d,i) { return y(-10); })
+      .attr("width", 6)
+      .attr("height", 6)
+      .style("fill", "#0cc")
+      .on("click", function(d) { return gotolink(d) })
+      // .call(d3.helper.tooltip()
+      //   .attr("class", function(d, i) { d["tarih"] })
+      //   .attr("d", "b")
+      //   .text(function(d, i){
+      //       return "<b>"+formatDate(d["date"]) + "</b> " 
+      //       +"<a href='"+d.link+"'>Ozeti</a><br>";
+      //   }));
+
+
+
     oturum.selectAll(".oturum")
       .data(function(d){return d.oturumlar})
     .enter().append("rect")
@@ -210,6 +235,12 @@ var svg = d3.select("#chart").append("svg")
                   + "<b>"+ k + "</b><br>";
         }));
 
+      function gotolink(link){
+        // console.log(link.link)
+        window.open(link.link, 'window name', 'window settings');
+        return false;
+      }
+
 }
 
 
@@ -228,7 +259,7 @@ d3.helper.tooltip = function(){
     function tooltip(selection) {
  
         selection.on("mouseover", function(d, i){
-            d3.select(this).style("fill", "#000")
+            d3.select(this).style("fill", "#0cc")
             var name, value;
             // Clean up lost tooltips
             d3.select('body').selectAll('div.tooltip').remove();
@@ -277,7 +308,7 @@ d3.helper.tooltip = function(){
             // Remove tooltip
             tooltipDiv.remove();
             d3.select(this).style("fill", function(d) { 
-        if (d.kapali) { return "#cc0000" } return "#666" })
+            if (d.kapali) { return "#cc0000" } return "#666" })
         });
  
     }

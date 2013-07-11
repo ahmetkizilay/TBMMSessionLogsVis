@@ -16,6 +16,10 @@ body {
   fill: #999;
 }
 
+.oturumozet:hover {
+  cursor: pointer;
+}
+
 .tooltip {
   font-size: 12px;
   padding: .5em;
