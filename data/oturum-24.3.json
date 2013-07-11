@@ -4678,5 +4678,72 @@
     "kapaliVar": false,
     "tarih": "09-07-2013, Tue",
     "dosya": "135"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.14",
+        "baslangic": "15.02",
+        "kapali": false
+      },
+      {
+        "bitis": "16.42",
+        "baslangic": "16.23",
+        "kapali": false
+      },
+      {
+        "bitis": "17.09",
+        "baslangic": "16.52",
+        "kapali": false
+      },
+      {
+        "bitis": "18.36",
+        "baslangic": "17.15",
+        "kapali": false
+      },
+      {
+        "bitis": "19.59",
+        "baslangic": "18.48",
+        "kapali": false
+      },
+      {
+        "bitis": "21.40",
+        "baslangic": "21.32",
+        "kapali": false
+      },
+      {
+        "bitis": "22.19",
+        "baslangic": "21.48",
+        "kapali": false
+      },
+      {
+        "bitis": "23.34",
+        "baslangic": "22.33",
+        "kapali": false
+      },
+      {
+        "bitis": "00.49",
+        "baslangic": "23.46",
+        "kapali": false
+      },
+      {
+        "bitis": "01.42",
+        "baslangic": "01.09",
+        "kapali": false
+      },
+      {
+        "bitis": "02.18",
+        "baslangic": "01.48",
+        "kapali": false
+      },
+      {
+        "bitis": "02.24",
+        "baslangic": "02.23",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "10-07-2013, Wed",
+    "dosya": "136"
   }
 ]
