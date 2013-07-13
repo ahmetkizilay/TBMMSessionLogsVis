@@ -4745,5 +4745,131 @@
     "kapaliVar": false,
     "tarih": "10-07-2013, Wed",
     "dosya": "136"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "17.08",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "19.29",
+        "baslangic": "17.16",
+        "kapali": false
+      },
+      {
+        "bitis": "19.38",
+        "baslangic": "19.37",
+        "kapali": false
+      },
+      {
+        "bitis": "19.50",
+        "baslangic": "19.49",
+        "kapali": false
+      },
+      {
+        "bitis": "21.46",
+        "baslangic": "21.33",
+        "kapali": false
+      },
+      {
+        "bitis": "21.56",
+        "baslangic": "21.53",
+        "kapali": false
+      },
+      {
+        "bitis": "23.42",
+        "baslangic": "22.11",
+        "kapali": false
+      },
+      {
+        "bitis": "01.21",
+        "baslangic": "23.52",
+        "kapali": false
+      },
+      {
+        "bitis": "02.37",
+        "baslangic": "01.36",
+        "kapali": false
+      },
+      {
+        "bitis": "02.39",
+        "baslangic": "02.38",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "11-07-2013, Thu",
+    "dosya": "137"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.11",
+        "baslangic": "14.03",
+        "kapali": false
+      },
+      {
+        "bitis": "14.49",
+        "baslangic": "14.18",
+        "kapali": false
+      },
+      {
+        "bitis": "15.03",
+        "baslangic": "14.58",
+        "kapali": false
+      },
+      {
+        "bitis": "18.31",
+        "baslangic": "15.05",
+        "kapali": false
+      },
+      {
+        "bitis": "19.58",
+        "baslangic": "18.48",
+        "kapali": false
+      },
+      {
+        "bitis": "23.22",
+        "baslangic": "21.31",
+        "kapali": false
+      },
+      {
+        "bitis": "00.56",
+        "baslangic": "23.49",
+        "kapali": false
+      },
+      {
+        "bitis": "00.58",
+        "baslangic": "00.57",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "12-07-2013, Fri",
+    "dosya": "138"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.33",
+        "baslangic": "14.02",
+        "kapali": false
+      },
+      {
+        "bitis": "16.46",
+        "baslangic": "16.44",
+        "kapali": false
+      },
+      {
+        "bitis": "19.43",
+        "baslangic": "17.03",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "13-07-2013, Sat",
+    "dosya": "139"
   }
 ]
