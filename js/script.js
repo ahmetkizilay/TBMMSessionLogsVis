@@ -30,7 +30,7 @@ var r = d3.scale.sqrt()
     .range([0.5, 15]);        
 
 // Load json
-d3.json("data/oturum-24.3.json", processData);
+d3.json("data/oturum-24.4.json", processData);
 
 
 function calculateDurationInMins(from, to) {

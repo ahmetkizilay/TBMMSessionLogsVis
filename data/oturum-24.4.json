@@ -1,0 +1,144 @@
+[
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.05",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "16.14",
+        "baslangic": "16.10",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "01-10-2013, Tue",
+    "dosya": "001"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.48",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "18.11",
+        "baslangic": "15.59",
+        "kapali": false
+      },
+      {
+        "bitis": "19.36",
+        "baslangic": "18.26",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "02-10-2013, Wed",
+    "dosya": "002"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.08",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "18.24",
+        "baslangic": "15.24",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "03-10-2013, Thu",
+    "dosya": "003"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.34",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "17.14",
+        "baslangic": "16.48",
+        "kapali": false
+      },
+      {
+        "bitis": "18.44",
+        "baslangic": "17.21",
+        "kapali": false
+      },
+      {
+        "bitis": "20.01",
+        "baslangic": "19.00",
+        "kapali": false
+      },
+      {
+        "bitis": "20.23",
+        "baslangic": "20.08",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "08-10-2013, Tue",
+    "dosya": "004"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.07",
+        "baslangic": "14.02",
+        "kapali": false
+      },
+      {
+        "bitis": "16.08",
+        "baslangic": "14.20",
+        "kapali": false
+      },
+      {
+        "bitis": "16.23",
+        "baslangic": "16.19",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "09-10-2013, Wed",
+    "dosya": "005"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.50",
+        "baslangic": "14.01",
+        "kapali": false
+      },
+      {
+        "bitis": "16.59",
+        "baslangic": "15.59",
+        "kapali": false
+      },
+      {
+        "bitis": "17.55",
+        "baslangic": "17.18",
+        "kapali": false
+      },
+      {
+        "bitis": "18.02",
+        "baslangic": "18.01",
+        "kapali": false
+      },
+      {
+        "bitis": "18.09",
+        "baslangic": "18.08",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "10-10-2013, Thu",
+    "dosya": "006"
+  }
+]
