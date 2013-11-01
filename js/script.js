@@ -1,7 +1,7 @@
 //  Data Array
 var data = [],
     donem = 24,
-    yasamayili = 3;
+    yasamayili = 4;
 
 // SVG Object Setup
 var margin = {top: 40, right: 100, bottom: 30, left: 40},
