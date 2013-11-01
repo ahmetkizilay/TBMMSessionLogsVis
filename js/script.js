@@ -14,7 +14,7 @@ var parseDate = d3.time.format("%d-%m-%Y, %a").parse;
 var parseTime = d3.time.format("%H.%M").parse;
 var formatDate = d3.time.format("%d-%m-%Y, %a"),
     formatTime = d3.time.format("%H:%M"),
-    formatMinutes = function(d) { return formatTime(new Date(2012, 0, 1, earliestTimeStr.substring(0,2), d)); };
+    formatMinutes = function (d) { return formatTime(new Date(2012, 0, 1, earliestTimeStr.substring(0, 2), d)); };
 
 // Color Scale
 var color = d3.scale.category10();
@@ -24,54 +24,53 @@ var x = d3.time.scale()
     .range([0, width]);
 
 var y = d3.scale.linear()
-    .range([0, height]);    
+    .range([0, height]);
 
 var r = d3.scale.sqrt()
-    .range([0.5, 15]);        
+    .range([0.5, 15]);
 
 // Load json
 d3.json("data/oturum-24.4.json", processData);
 
-
 function calculateDurationInMins(from, to) {
-  var fromParts = from.split('.');
-  var toParts = to.split('.');
-  var toPartH = parseInt(toParts[0]);
-  var toPartM = parseInt(toParts[1]);
-  var fromPartH = parseInt(fromParts[0]);
-  var fromPartM = parseInt(fromParts[1]);
-  
-  if(toPartM < fromPartM) {
+    var fromParts = from.split('.'),
+        toParts = to.split('.'),
+        toPartH = parseInt(toParts[0]),
+        toPartM = parseInt(toParts[1]),
+        fromPartH = parseInt(fromParts[0]),
+        fromPartM = parseInt(fromParts[1]);
+
+    if(toPartM < fromPartM) {
         toPartM = toPartM + 60;
         toPartH = toPartH - 1;
-  }
+    }
 
-  if(toPartH < fromPartH) {
-    toPartH = toPartH + 24;
-  }
-  
-  return ((toPartH - fromPartH) * 60) + (toPartM - fromPartM);
+    if(toPartH < fromPartH) {
+        toPartH = toPartH + 24;
+    }
+
+    return ((toPartH - fromPartH) * 60) + (toPartM - fromPartM);
 }
 
 function simpleTimeFormat(timeToFormat) {
-  var hours = timeToFormat.getHours();
-  var minutes = timeToFormat.getMinutes();
-  if(hours < 10) { hours = '0' + hours; }
-  if(minutes < 10) { minutes = '0' + minutes; }
-
-  return hours + '.' + minutes;
+    var hours = timeToFormat.getHours();
+    var minutes = timeToFormat.getMinutes();
+    if(hours < 10) { hours = '0' + hours; }
+    if(minutes < 10) { minutes = '0' + minutes; }
+    
+    return hours + '.' + minutes;
 }
 
 function processData (raw) {
-	data = raw;
-	draw();
+    data = raw;
+    draw();
 }
 
 function draw () {
-	update();
+    update();
 }
 
-function update () {
+function update() {
 
 var xAxis = d3.svg.axis()
     .scale(x)
@@ -87,27 +86,27 @@ var yAxis = d3.svg.axis()
 var svg = d3.select("#chart").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
-  .append("g")
+    .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-  var earliestTime = parseTime("24.00");
+var earliestTime = parseTime("24.00");
 
-  data.forEach(function(d) {
+data.forEach(function (d) {
     try {
       d.oturumlar.forEach(function(e) {
-        if(!e.kapali) {          
+        if(!e.kapali) {
           var thisBaslangicTime = parseTime(e.baslangic);
           if(thisBaslangicTime < earliestTime) {
             earliestTime = thisBaslangicTime;
           }
           throw "BreakException";
-        }        
+        }
       });
     }
     catch(exp) {
       if(exp !== "BreakException") throw exp;
     }
-  });
+});
 
   earliestTimeStr = simpleTimeFormat(earliestTime);
 
@@ -248,16 +247,16 @@ var svg = d3.select("#chart").append("svg")
 // Tooltip Helper from 
 // https://gist.github.com/milroc/2975255
 d3.helper = {};
- 
+
 d3.helper.tooltip = function(){
     var tooltipDiv;
-    var bodyNode = d3.select('body').node();    
+    var bodyNode = d3.select('body').node();
     var attrs = [];
     var text = "";
     var styles = [];
- 
+
     function tooltip(selection) {
- 
+
         selection.on("mouseover", function(d, i){
             d3.select(this).style("fill", "#0cc")
             var name, value;
@@ -283,7 +282,7 @@ d3.helper.tooltip = function(){
             var absoluteMousePos = d3.mouse(bodyNode);
             tooltipDiv.style('left', (absoluteMousePos[0] + 20)+'px')
                 .style('top', (absoluteMousePos[1] - 15)+'px')
-                .style('position', 'absolute') 
+                .style('position', 'absolute')
                 .style('z-index', 1001);
             // Add text using the accessor function
             var tooltipText = '';
@@ -307,12 +306,12 @@ d3.helper.tooltip = function(){
         .on("mouseout", function(d, i){
             // Remove tooltip
             tooltipDiv.remove();
-            d3.select(this).style("fill", function(d) { 
+            d3.select(this).style("fill", function(d) {
             if (d.kapali) { return "#cc0000" } return "#666" })
         });
- 
+
     }
- 
+
     tooltip.attr = function(name, value) {
         attrs.push(arguments);
         return this;
@@ -322,11 +321,11 @@ d3.helper.tooltip = function(){
         text = value;
         return this;
     }
- 
+
     tooltip.style = function(name, value) {
         styles.push(arguments);
         return this;
     }
- 
+
     return tooltip;
 };
