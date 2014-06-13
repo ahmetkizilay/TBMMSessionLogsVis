@@ -265,5 +265,3473 @@
     "kapaliVar": false,
     "tarih": "31-10-2013, Thu",
     "dosya": "011"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.43",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "17.43",
+        "baslangic": "17.31",
+        "kapali": false
+      },
+      {
+        "bitis": "19.51",
+        "baslangic": "17.53",
+        "kapali": false
+      },
+      {
+        "bitis": "21.16",
+        "baslangic": "20.04",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "05-11-2013, Tue",
+    "dosya": "012"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.03",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "16.11",
+        "baslangic": "14.11",
+        "kapali": false
+      },
+      {
+        "bitis": "16.46",
+        "baslangic": "16.21",
+        "kapali": false
+      },
+      {
+        "bitis": "19.12",
+        "baslangic": "17.28",
+        "kapali": false
+      },
+      {
+        "bitis": "19.24",
+        "baslangic": "19.23",
+        "kapali": false
+      },
+      {
+        "bitis": "21.58",
+        "baslangic": "19.56",
+        "kapali": false
+      },
+      {
+        "bitis": "22.04",
+        "baslangic": "22.03",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "06-11-2013, Wed",
+    "dosya": "013"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.06",
+        "baslangic": "14.01",
+        "kapali": false
+      },
+      {
+        "bitis": "16.39",
+        "baslangic": "14.15",
+        "kapali": false
+      },
+      {
+        "bitis": "17.33",
+        "baslangic": "17.25",
+        "kapali": false
+      },
+      {
+        "bitis": "18.19",
+        "baslangic": "17.48",
+        "kapali": false
+      },
+      {
+        "bitis": "19.39",
+        "baslangic": "18.28",
+        "kapali": false
+      },
+      {
+        "bitis": "21.02",
+        "baslangic": "19.53",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "07-11-2013, Thu",
+    "dosya": "014"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.39",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "15.54",
+        "baslangic": "15.51",
+        "kapali": false
+      },
+      {
+        "bitis": "16.34",
+        "baslangic": "16.04",
+        "kapali": false
+      },
+      {
+        "bitis": "17.51",
+        "baslangic": "17.19",
+        "kapali": false
+      },
+      {
+        "bitis": "19.19",
+        "baslangic": "18.01",
+        "kapali": false
+      },
+      {
+        "bitis": "19.58",
+        "baslangic": "19.33",
+        "kapali": false
+      },
+      {
+        "bitis": "20.23",
+        "baslangic": "20.04",
+        "kapali": false
+      },
+      {
+        "bitis": "20.30",
+        "baslangic": "20.29",
+        "kapali": false
+      },
+      {
+        "bitis": "20.37",
+        "baslangic": "20.36",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "12-11-2013, Tue",
+    "dosya": "015"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.05",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "16.06",
+        "baslangic": "15.19",
+        "kapali": false
+      },
+      {
+        "bitis": "17.22",
+        "baslangic": "16.15",
+        "kapali": false
+      },
+      {
+        "bitis": "18.24",
+        "baslangic": "17.35",
+        "kapali": false
+      },
+      {
+        "bitis": "21.22",
+        "baslangic": "19.29",
+        "kapali": false
+      },
+      {
+        "bitis": "21.29",
+        "baslangic": "21.28",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "13-11-2013, Wed",
+    "dosya": "016"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.05",
+        "baslangic": "14.03",
+        "kapali": false
+      },
+      {
+        "bitis": "15.55",
+        "baslangic": "14.14",
+        "kapali": false
+      },
+      {
+        "bitis": "17.16",
+        "baslangic": "16.11",
+        "kapali": false
+      },
+      {
+        "bitis": "19.02",
+        "baslangic": "17.30",
+        "kapali": false
+      },
+      {
+        "bitis": "20.46",
+        "baslangic": "19.51",
+        "kapali": false
+      },
+      {
+        "bitis": "21.01",
+        "baslangic": "20.56",
+        "kapali": false
+      },
+      {
+        "bitis": "22.27",
+        "baslangic": "21.11",
+        "kapali": false
+      },
+      {
+        "bitis": "22.33",
+        "baslangic": "22.32",
+        "kapali": false
+      },
+      {
+        "bitis": "22.35",
+        "baslangic": "22.34",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "14-11-2013, Thu",
+    "dosya": "017"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.38",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "17.28",
+        "baslangic": "16.55",
+        "kapali": false
+      },
+      {
+        "bitis": "19.35",
+        "baslangic": "17.43",
+        "kapali": false
+      },
+      {
+        "bitis": "19.40",
+        "baslangic": "19.39",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "19-11-2013, Tue",
+    "dosya": "018"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.48",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "16.01",
+        "baslangic": "16.00",
+        "kapali": false
+      },
+      {
+        "bitis": "16.06",
+        "baslangic": "16.05",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "20-11-2013, Wed",
+    "dosya": "019"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.04",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "15.41",
+        "baslangic": "14.15",
+        "kapali": false
+      },
+      {
+        "bitis": "16.52",
+        "baslangic": "15.58",
+        "kapali": false
+      },
+      {
+        "bitis": "17.03",
+        "baslangic": "17.00",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "21-11-2013, Thu",
+    "dosya": "020"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "17.47",
+        "baslangic": "15.01",
+        "kapali": false
+      },
+      {
+        "bitis": "20.58",
+        "baslangic": "18.04",
+        "kapali": false
+      },
+      {
+        "bitis": "21.04",
+        "baslangic": "21.03",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "26-11-2013, Tue",
+    "dosya": "021"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.37",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "17.38",
+        "baslangic": "15.50",
+        "kapali": false
+      },
+      {
+        "bitis": "19.35",
+        "baslangic": "18.04",
+        "kapali": false
+      },
+      {
+        "bitis": "20.24",
+        "baslangic": "19.46",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "27-11-2013, Wed",
+    "dosya": "022"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.05",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "15.56",
+        "baslangic": "14.19",
+        "kapali": false
+      },
+      {
+        "bitis": "16.59",
+        "baslangic": "16.11",
+        "kapali": false
+      },
+      {
+        "bitis": "18.36",
+        "baslangic": "17.08",
+        "kapali": false
+      },
+      {
+        "bitis": "20.35",
+        "baslangic": "18.41",
+        "kapali": false
+      },
+      {
+        "bitis": "20.49",
+        "baslangic": "20.44",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "28-11-2013, Thu",
+    "dosya": "023"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.33",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "19.14",
+        "baslangic": "16.48",
+        "kapali": false
+      },
+      {
+        "bitis": "22.06",
+        "baslangic": "20.16",
+        "kapali": false
+      },
+      {
+        "bitis": "22.16",
+        "baslangic": "22.14",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "03-12-2013, Tue",
+    "dosya": "024"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.03",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "15.59",
+        "baslangic": "14.15",
+        "kapali": false
+      },
+      {
+        "bitis": "18.21",
+        "baslangic": "16.15",
+        "kapali": false
+      },
+      {
+        "bitis": "18.55",
+        "baslangic": "18.34",
+        "kapali": false
+      },
+      {
+        "bitis": "19.49",
+        "baslangic": "19.13",
+        "kapali": false
+      },
+      {
+        "bitis": "21.02",
+        "baslangic": "20.54",
+        "kapali": false
+      },
+      {
+        "bitis": "21.34",
+        "baslangic": "21.06",
+        "kapali": false
+      },
+      {
+        "bitis": "23.42",
+        "baslangic": "21.49",
+        "kapali": false
+      },
+      {
+        "bitis": "00.27",
+        "baslangic": "00.03",
+        "kapali": false
+      },
+      {
+        "bitis": "01.30",
+        "baslangic": "00.36",
+        "kapali": false
+      },
+      {
+        "bitis": "01.33",
+        "baslangic": "01.31",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "04-12-2013, Wed",
+    "dosya": "025"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.43",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "15.43",
+        "baslangic": "14.51",
+        "kapali": false
+      },
+      {
+        "bitis": "16.48",
+        "baslangic": "15.54",
+        "kapali": false
+      },
+      {
+        "bitis": "19.17",
+        "baslangic": "17.04",
+        "kapali": false
+      },
+      {
+        "bitis": "20.21",
+        "baslangic": "20.19",
+        "kapali": false
+      },
+      {
+        "bitis": "20.40",
+        "baslangic": "20.26",
+        "kapali": false
+      },
+      {
+        "bitis": "22.29",
+        "baslangic": "20.46",
+        "kapali": false
+      },
+      {
+        "bitis": "00.06",
+        "baslangic": "22.38",
+        "kapali": false
+      },
+      {
+        "bitis": "01.20",
+        "baslangic": "00.20",
+        "kapali": false
+      },
+      {
+        "bitis": "01.24",
+        "baslangic": "01.23",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "09-12-2013, Mon",
+    "dosya": "026"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "18.07",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "19.43",
+        "baslangic": "18.18",
+        "kapali": false
+      },
+      {
+        "bitis": "21.23",
+        "baslangic": "19.52",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "10-12-2013, Tue",
+    "dosya": "027"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "11.06",
+        "baslangic": "11.00",
+        "kapali": false
+      },
+      {
+        "bitis": "13.37",
+        "baslangic": "11.13",
+        "kapali": false
+      },
+      {
+        "bitis": "14.47",
+        "baslangic": "14.38",
+        "kapali": false
+      },
+      {
+        "bitis": "16.41",
+        "baslangic": "14.54",
+        "kapali": false
+      },
+      {
+        "bitis": "19.29",
+        "baslangic": "16.58",
+        "kapali": false
+      },
+      {
+        "bitis": "20.16",
+        "baslangic": "20.03",
+        "kapali": false
+      },
+      {
+        "bitis": "00.09",
+        "baslangic": "21.11",
+        "kapali": false
+      },
+      {
+        "bitis": "03.14",
+        "baslangic": "00.22",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "11-12-2013, Wed",
+    "dosya": "028"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "13.56",
+        "baslangic": "11.01",
+        "kapali": false
+      },
+      {
+        "bitis": "16.01",
+        "baslangic": "14.23",
+        "kapali": false
+      },
+      {
+        "bitis": "17.19",
+        "baslangic": "16.17",
+        "kapali": false
+      },
+      {
+        "bitis": "18.43",
+        "baslangic": "17.34",
+        "kapali": false
+      },
+      {
+        "bitis": "19.58",
+        "baslangic": "19.18",
+        "kapali": false
+      },
+      {
+        "bitis": "21.14",
+        "baslangic": "20.03",
+        "kapali": false
+      },
+      {
+        "bitis": "00.27",
+        "baslangic": "21.29",
+        "kapali": false
+      },
+      {
+        "bitis": "02.45",
+        "baslangic": "00.44",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "12-12-2013, Thu",
+    "dosya": "029"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "11.57",
+        "baslangic": "10.00",
+        "kapali": false
+      },
+      {
+        "bitis": "17.03",
+        "baslangic": "13.00",
+        "kapali": false
+      },
+      {
+        "bitis": "19.39",
+        "baslangic": "17.22",
+        "kapali": false
+      },
+      {
+        "bitis": "22.36",
+        "baslangic": "20.31",
+        "kapali": false
+      },
+      {
+        "bitis": "23.23",
+        "baslangic": "22.56",
+        "kapali": false
+      },
+      {
+        "bitis": "01.46",
+        "baslangic": "23.36",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "13-12-2013, Fri",
+    "dosya": "030"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "13.26",
+        "baslangic": "10.00",
+        "kapali": false
+      },
+      {
+        "bitis": "16.48",
+        "baslangic": "14.28",
+        "kapali": false
+      },
+      {
+        "bitis": "18.15",
+        "baslangic": "17.04",
+        "kapali": false
+      },
+      {
+        "bitis": "20.13",
+        "baslangic": "18.44",
+        "kapali": false
+      },
+      {
+        "bitis": "22.19",
+        "baslangic": "20.24",
+        "kapali": false
+      },
+      {
+        "bitis": "00.33",
+        "baslangic": "22.33",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "14-12-2013, Sat",
+    "dosya": "031"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "13.33",
+        "baslangic": "10.03",
+        "kapali": false
+      },
+      {
+        "bitis": "16.56",
+        "baslangic": "14.33",
+        "kapali": false
+      },
+      {
+        "bitis": "19.51",
+        "baslangic": "17.19",
+        "kapali": false
+      },
+      {
+        "bitis": "21.14",
+        "baslangic": "20.04",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "15-12-2013, Sun",
+    "dosya": "032"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "11.51",
+        "baslangic": "10.00",
+        "kapali": false
+      },
+      {
+        "bitis": "13.47",
+        "baslangic": "12.03",
+        "kapali": false
+      },
+      {
+        "bitis": "16.29",
+        "baslangic": "14.23",
+        "kapali": false
+      },
+      {
+        "bitis": "18.41",
+        "baslangic": "16.48",
+        "kapali": false
+      },
+      {
+        "bitis": "19.57",
+        "baslangic": "18.58",
+        "kapali": false
+      },
+      {
+        "bitis": "23.02",
+        "baslangic": "20.46",
+        "kapali": false
+      },
+      {
+        "bitis": "23.53",
+        "baslangic": "23.16",
+        "kapali": false
+      },
+      {
+        "bitis": "02.18",
+        "baslangic": "01.03",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "16-12-2013, Mon",
+    "dosya": "033"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "12.19",
+        "baslangic": "10.00",
+        "kapali": false
+      },
+      {
+        "bitis": "14.37",
+        "baslangic": "13.25",
+        "kapali": false
+      },
+      {
+        "bitis": "17.38",
+        "baslangic": "15.06",
+        "kapali": false
+      },
+      {
+        "bitis": "18.44",
+        "baslangic": "17.53",
+        "kapali": false
+      },
+      {
+        "bitis": "21.56",
+        "baslangic": "19.50",
+        "kapali": false
+      },
+      {
+        "bitis": "23.54",
+        "baslangic": "22.14",
+        "kapali": false
+      },
+      {
+        "bitis": "23.58",
+        "baslangic": "23.57",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "17-12-2013, Tue",
+    "dosya": "034"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "13.16",
+        "baslangic": "10.01",
+        "kapali": false
+      },
+      {
+        "bitis": "15.37",
+        "baslangic": "14.18",
+        "kapali": false
+      },
+      {
+        "bitis": "17.48",
+        "baslangic": "15.50",
+        "kapali": false
+      },
+      {
+        "bitis": "19.59",
+        "baslangic": "18.06",
+        "kapali": false
+      },
+      {
+        "bitis": "22.16",
+        "baslangic": "20.47",
+        "kapali": false
+      },
+      {
+        "bitis": "23.43",
+        "baslangic": "22.33",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "18-12-2013, Wed",
+    "dosya": "035"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "12.00",
+        "baslangic": "10.00",
+        "kapali": false
+      },
+      {
+        "bitis": "14.16",
+        "baslangic": "13.03",
+        "kapali": false
+      },
+      {
+        "bitis": "15.31",
+        "baslangic": "14.35",
+        "kapali": false
+      },
+      {
+        "bitis": "17.59",
+        "baslangic": "15.51",
+        "kapali": false
+      },
+      {
+        "bitis": "18.56",
+        "baslangic": "18.24",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "19-12-2013, Thu",
+    "dosya": "036"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.28",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "18.07",
+        "baslangic": "16.39",
+        "kapali": false
+      },
+      {
+        "bitis": "19.31",
+        "baslangic": "18.19",
+        "kapali": false
+      },
+      {
+        "bitis": "20.00",
+        "baslangic": "19.39",
+        "kapali": false
+      },
+      {
+        "bitis": "22.19",
+        "baslangic": "20.07",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "20-12-2013, Fri",
+    "dosya": "037"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.01",
+        "baslangic": "15.00",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "24-12-2013, Tue",
+    "dosya": "038"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.04",
+        "baslangic": "15.01",
+        "kapali": false
+      },
+      {
+        "bitis": "15.11",
+        "baslangic": "15.10",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "25-12-2013, Wed",
+    "dosya": "039"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.01",
+        "baslangic": "15.00",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "26-12-2013, Thu",
+    "dosya": "040"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.01",
+        "baslangic": "15.00",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "31-12-2013, Tue",
+    "dosya": "041"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.51",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "17.38",
+        "baslangic": "17.12",
+        "kapali": false
+      },
+      {
+        "bitis": "18.23",
+        "baslangic": "18.20",
+        "kapali": false
+      },
+      {
+        "bitis": "19.24",
+        "baslangic": "18.40",
+        "kapali": false
+      },
+      {
+        "bitis": "19.35",
+        "baslangic": "19.33",
+        "kapali": false
+      },
+      {
+        "bitis": "20.34",
+        "baslangic": "19.41",
+        "kapali": false
+      },
+      {
+        "bitis": "20.58",
+        "baslangic": "20.38",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "02-01-2014, Thu",
+    "dosya": "042"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.23",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "18.26",
+        "baslangic": "16.44",
+        "kapali": false
+      },
+      {
+        "bitis": "19.42",
+        "baslangic": "18.46",
+        "kapali": false
+      },
+      {
+        "bitis": "21.11",
+        "baslangic": "20.31",
+        "kapali": false
+      },
+      {
+        "bitis": "22.58",
+        "baslangic": "21.33",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "07-01-2014, Tue",
+    "dosya": "043"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.05",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "14.21",
+        "baslangic": "14.18",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "08-01-2014, Wed",
+    "dosya": "044"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.33",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "16.41",
+        "baslangic": "15.48",
+        "kapali": false
+      },
+      {
+        "bitis": "18.18",
+        "baslangic": "17.00",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "09-01-2014, Thu",
+    "dosya": "045"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.49",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "16.47",
+        "baslangic": "16.26",
+        "kapali": false
+      },
+      {
+        "bitis": "17.40",
+        "baslangic": "16.56",
+        "kapali": false
+      },
+      {
+        "bitis": "18.35",
+        "baslangic": "17.48",
+        "kapali": false
+      },
+      {
+        "bitis": "20.01",
+        "baslangic": "18.41",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "14-01-2014, Tue",
+    "dosya": "046"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.05",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "16.09",
+        "baslangic": "14.15",
+        "kapali": false
+      },
+      {
+        "bitis": "18.41",
+        "baslangic": "16.20",
+        "kapali": false
+      },
+      {
+        "bitis": "18.49",
+        "baslangic": "18.46",
+        "kapali": false
+      },
+      {
+        "bitis": "20.58",
+        "baslangic": "19.35",
+        "kapali": false
+      },
+      {
+        "bitis": "21.32",
+        "baslangic": "21.10",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "15-01-2014, Wed",
+    "dosya": "047"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.28",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "17.44",
+        "baslangic": "15.45",
+        "kapali": false
+      },
+      {
+        "bitis": "18.45",
+        "baslangic": "18.00",
+        "kapali": false
+      },
+      {
+        "bitis": "18.53",
+        "baslangic": "18.52",
+        "kapali": false
+      },
+      {
+        "bitis": "18.56",
+        "baslangic": "18.55",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "16-01-2014, Thu",
+    "dosya": "048"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.04",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "16.39",
+        "baslangic": "15.23",
+        "kapali": false
+      },
+      {
+        "bitis": "17.27",
+        "baslangic": "16.51",
+        "kapali": false
+      },
+      {
+        "bitis": "19.03",
+        "baslangic": "17.40",
+        "kapali": false
+      },
+      {
+        "bitis": "21.06",
+        "baslangic": "20.03",
+        "kapali": false
+      },
+      {
+        "bitis": "22.11",
+        "baslangic": "21.23",
+        "kapali": false
+      },
+      {
+        "bitis": "00.19",
+        "baslangic": "22.18",
+        "kapali": false
+      },
+      {
+        "bitis": "00.29",
+        "baslangic": "00.28",
+        "kapali": false
+      },
+      {
+        "bitis": "00.31",
+        "baslangic": "00.30",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "21-01-2014, Tue",
+    "dosya": "049"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.34",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "16.32",
+        "baslangic": "14.50",
+        "kapali": false
+      },
+      {
+        "bitis": "17.42",
+        "baslangic": "16.45",
+        "kapali": false
+      },
+      {
+        "bitis": "19.23",
+        "baslangic": "17.58",
+        "kapali": false
+      },
+      {
+        "bitis": "22.01",
+        "baslangic": "20.24",
+        "kapali": false
+      },
+      {
+        "bitis": "23.41",
+        "baslangic": "22.12",
+        "kapali": false
+      },
+      {
+        "bitis": "23.47",
+        "baslangic": "23.45",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "22-01-2014, Wed",
+    "dosya": "050"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.46",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "16.45",
+        "baslangic": "16.44",
+        "kapali": false
+      },
+      {
+        "bitis": "17.16",
+        "baslangic": "17.05",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "23-01-2014, Thu",
+    "dosya": "051"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.11",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "16.51",
+        "baslangic": "15.32",
+        "kapali": false
+      },
+      {
+        "bitis": "17.53",
+        "baslangic": "17.05",
+        "kapali": false
+      },
+      {
+        "bitis": "19.45",
+        "baslangic": "18.06",
+        "kapali": false
+      },
+      {
+        "bitis": "19.49",
+        "baslangic": "19.47",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "24-01-2014, Fri",
+    "dosya": "052"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.43",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "18.41",
+        "baslangic": "17.03",
+        "kapali": false
+      },
+      {
+        "bitis": "19.41",
+        "baslangic": "18.59",
+        "kapali": false
+      },
+      {
+        "bitis": "19.46",
+        "baslangic": "19.44",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "28-01-2014, Tue",
+    "dosya": "053"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.36",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "17.40",
+        "baslangic": "15.49",
+        "kapali": false
+      },
+      {
+        "bitis": "18.46",
+        "baslangic": "17.53",
+        "kapali": false
+      },
+      {
+        "bitis": "20.07",
+        "baslangic": "19.33",
+        "kapali": false
+      },
+      {
+        "bitis": "20.36",
+        "baslangic": "20.18",
+        "kapali": false
+      },
+      {
+        "bitis": "21.47",
+        "baslangic": "20.43",
+        "kapali": false
+      },
+      {
+        "bitis": "23.11",
+        "baslangic": "21.54",
+        "kapali": false
+      },
+      {
+        "bitis": "23.49",
+        "baslangic": "23.28",
+        "kapali": false
+      },
+      {
+        "bitis": "01.17",
+        "baslangic": "23.53",
+        "kapali": false
+      },
+      {
+        "bitis": "01.42",
+        "baslangic": "01.22",
+        "kapali": false
+      },
+      {
+        "bitis": "01.46",
+        "baslangic": "01.44",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "29-01-2014, Wed",
+    "dosya": "054"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.01",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "15.48",
+        "baslangic": "15.13",
+        "kapali": false
+      },
+      {
+        "bitis": "16.24",
+        "baslangic": "16.03",
+        "kapali": false
+      },
+      {
+        "bitis": "17.37",
+        "baslangic": "16.36",
+        "kapali": false
+      },
+      {
+        "bitis": "19.10",
+        "baslangic": "17.44",
+        "kapali": false
+      },
+      {
+        "bitis": "21.33",
+        "baslangic": "20.02",
+        "kapali": false
+      },
+      {
+        "bitis": "22.39",
+        "baslangic": "21.44",
+        "kapali": false
+      },
+      {
+        "bitis": "00.20",
+        "baslangic": "22.53",
+        "kapali": false
+      },
+      {
+        "bitis": "00.26",
+        "baslangic": "00.23",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "30-01-2014, Thu",
+    "dosya": "055"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.53",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "17.06",
+        "baslangic": "16.16",
+        "kapali": false
+      },
+      {
+        "bitis": "18.49",
+        "baslangic": "17.20",
+        "kapali": false
+      },
+      {
+        "bitis": "20.16",
+        "baslangic": "19.52",
+        "kapali": false
+      },
+      {
+        "bitis": "20.57",
+        "baslangic": "20.42",
+        "kapali": false
+      },
+      {
+        "bitis": "21.47",
+        "baslangic": "21.13",
+        "kapali": false
+      },
+      {
+        "bitis": "22.07",
+        "baslangic": "21.58",
+        "kapali": false
+      },
+      {
+        "bitis": "00.06",
+        "baslangic": "22.18",
+        "kapali": false
+      },
+      {
+        "bitis": "01.41",
+        "baslangic": "00.20",
+        "kapali": false
+      },
+      {
+        "bitis": "01.43",
+        "baslangic": "01.42",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "04-02-2014, Tue",
+    "dosya": "056"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.33",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "18.16",
+        "baslangic": "15.59",
+        "kapali": false
+      },
+      {
+        "bitis": "18.59",
+        "baslangic": "18.34",
+        "kapali": false
+      },
+      {
+        "bitis": "20.26",
+        "baslangic": "20.03",
+        "kapali": false
+      },
+      {
+        "bitis": "22.38",
+        "baslangic": "20.38",
+        "kapali": false
+      },
+      {
+        "bitis": "00.17",
+        "baslangic": "23.01",
+        "kapali": false
+      },
+      {
+        "bitis": "01.27",
+        "baslangic": "00.28",
+        "kapali": false
+      },
+      {
+        "bitis": "01.31",
+        "baslangic": "01.29",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "05-02-2014, Wed",
+    "dosya": "057"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.06",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "16.02",
+        "baslangic": "14.20",
+        "kapali": false
+      },
+      {
+        "bitis": "16.36",
+        "baslangic": "16.16",
+        "kapali": false
+      },
+      {
+        "bitis": "19.21",
+        "baslangic": "16.51",
+        "kapali": false
+      },
+      {
+        "bitis": "19.27",
+        "baslangic": "19.24",
+        "kapali": false
+      },
+      {
+        "bitis": "21.20",
+        "baslangic": "20.31",
+        "kapali": false
+      },
+      {
+        "bitis": "22.19",
+        "baslangic": "21.40",
+        "kapali": false
+      },
+      {
+        "bitis": "23.42",
+        "baslangic": "22.28",
+        "kapali": false
+      },
+      {
+        "bitis": "00.27",
+        "baslangic": "23.49",
+        "kapali": false
+      },
+      {
+        "bitis": "02.01",
+        "baslangic": "00.33",
+        "kapali": false
+      },
+      {
+        "bitis": "02.07",
+        "baslangic": "02.04",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "06-02-2014, Thu",
+    "dosya": "058"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.38",
+        "baslangic": "15.03",
+        "kapali": false
+      },
+      {
+        "bitis": "15.51",
+        "baslangic": "15.50",
+        "kapali": false
+      },
+      {
+        "bitis": "16.26",
+        "baslangic": "16.02",
+        "kapali": false
+      },
+      {
+        "bitis": "16.58",
+        "baslangic": "16.29",
+        "kapali": false
+      },
+      {
+        "bitis": "18.46",
+        "baslangic": "17.10",
+        "kapali": false
+      },
+      {
+        "bitis": "20.46",
+        "baslangic": "19.45",
+        "kapali": false
+      },
+      {
+        "bitis": "22.28",
+        "baslangic": "21.00",
+        "kapali": false
+      },
+      {
+        "bitis": "23.56",
+        "baslangic": "22.45",
+        "kapali": false
+      },
+      {
+        "bitis": "00.22",
+        "baslangic": "00.13",
+        "kapali": false
+      },
+      {
+        "bitis": "00.34",
+        "baslangic": "00.31",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "11-02-2014, Tue",
+    "dosya": "059"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.18",
+        "baslangic": "14.03",
+        "kapali": false
+      },
+      {
+        "bitis": "17.41",
+        "baslangic": "16.39",
+        "kapali": false
+      },
+      {
+        "bitis": "18.24",
+        "baslangic": "17.58",
+        "kapali": false
+      },
+      {
+        "bitis": "18.34",
+        "baslangic": "18.33",
+        "kapali": false
+      },
+      {
+        "bitis": "19.05",
+        "baslangic": "19.05",
+        "kapali": false
+      },
+      {
+        "bitis": "20.07",
+        "baslangic": "20.02",
+        "kapali": false
+      },
+      {
+        "bitis": "20.39",
+        "baslangic": "20.18",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "12-02-2014, Wed",
+    "dosya": "060"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.05",
+        "baslangic": "14.03",
+        "kapali": false
+      },
+      {
+        "bitis": "15.06",
+        "baslangic": "14.14",
+        "kapali": false
+      },
+      {
+        "bitis": "15.36",
+        "baslangic": "15.23",
+        "kapali": false
+      },
+      {
+        "bitis": "15.54",
+        "baslangic": "15.43",
+        "kapali": false
+      },
+      {
+        "bitis": "16.22",
+        "baslangic": "16.13",
+        "kapali": false
+      },
+      {
+        "bitis": "17.06",
+        "baslangic": "16.41",
+        "kapali": false
+      },
+      {
+        "bitis": "17.49",
+        "baslangic": "17.17",
+        "kapali": false
+      },
+      {
+        "bitis": "19.01",
+        "baslangic": "17.56",
+        "kapali": false
+      },
+      {
+        "bitis": "19.21",
+        "baslangic": "19.13",
+        "kapali": false
+      },
+      {
+        "bitis": "20.28",
+        "baslangic": "20.20",
+        "kapali": false
+      },
+      {
+        "bitis": "22.02",
+        "baslangic": "20.41",
+        "kapali": false
+      },
+      {
+        "bitis": "22.27",
+        "baslangic": "22.13",
+        "kapali": false
+      },
+      {
+        "bitis": "23.38",
+        "baslangic": "22.39",
+        "kapali": false
+      },
+      {
+        "bitis": "00.16",
+        "baslangic": "23.46",
+        "kapali": false
+      },
+      {
+        "bitis": "00.52",
+        "baslangic": "00.39",
+        "kapali": false
+      },
+      {
+        "bitis": "02.22",
+        "baslangic": "00.56",
+        "kapali": false
+      },
+      {
+        "bitis": "02.49",
+        "baslangic": "02.40",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "13-02-2014, Thu",
+    "dosya": "061"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.06",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "16.28",
+        "baslangic": "15.18",
+        "kapali": false
+      },
+      {
+        "bitis": "17.24",
+        "baslangic": "16.39",
+        "kapali": false
+      },
+      {
+        "bitis": "18.04",
+        "baslangic": "17.47",
+        "kapali": false
+      },
+      {
+        "bitis": "19.09",
+        "baslangic": "18.52",
+        "kapali": false
+      },
+      {
+        "bitis": "20.11",
+        "baslangic": "20.10",
+        "kapali": false
+      },
+      {
+        "bitis": "20.40",
+        "baslangic": "20.19",
+        "kapali": false
+      },
+      {
+        "bitis": "20.52",
+        "baslangic": "20.48",
+        "kapali": false
+      },
+      {
+        "bitis": "21.06",
+        "baslangic": "20.55",
+        "kapali": false
+      },
+      {
+        "bitis": "21.11",
+        "baslangic": "21.10",
+        "kapali": false
+      },
+      {
+        "bitis": "21.31",
+        "baslangic": "21.16",
+        "kapali": false
+      },
+      {
+        "bitis": "21.48",
+        "baslangic": "21.35",
+        "kapali": false
+      },
+      {
+        "bitis": "22.16",
+        "baslangic": "21.55",
+        "kapali": false
+      },
+      {
+        "bitis": "23.44",
+        "baslangic": "22.23",
+        "kapali": false
+      },
+      {
+        "bitis": "00.08",
+        "baslangic": "23.51",
+        "kapali": false
+      },
+      {
+        "bitis": "00.21",
+        "baslangic": "00.19",
+        "kapali": false
+      },
+      {
+        "bitis": "01.39",
+        "baslangic": "01.14",
+        "kapali": false
+      },
+      {
+        "bitis": "03.53",
+        "baslangic": "02.05",
+        "kapali": false
+      },
+      {
+        "bitis": "04.04",
+        "baslangic": "04.03",
+        "kapali": false
+      },
+      {
+        "bitis": "04.56",
+        "baslangic": "04.08",
+        "kapali": false
+      },
+      {
+        "bitis": "07.17",
+        "baslangic": "06.53",
+        "kapali": false
+      },
+      {
+        "bitis": "09.20",
+        "baslangic": "07.21",
+        "kapali": false
+      },
+      {
+        "bitis": "10.11",
+        "baslangic": "09.26",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "14-02-2014, Fri",
+    "dosya": "062"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.12",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "18.06",
+        "baslangic": "16.24",
+        "kapali": false
+      },
+      {
+        "bitis": "19.15",
+        "baslangic": "18.19",
+        "kapali": false
+      },
+      {
+        "bitis": "21.17",
+        "baslangic": "20.16",
+        "kapali": false
+      },
+      {
+        "bitis": "21.33",
+        "baslangic": "21.28",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "18-02-2014, Tue",
+    "dosya": "063"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.30",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "16.45",
+        "baslangic": "16.43",
+        "kapali": false
+      },
+      {
+        "bitis": "17.59",
+        "baslangic": "16.52",
+        "kapali": false
+      },
+      {
+        "bitis": "18.38",
+        "baslangic": "18.12",
+        "kapali": false
+      },
+      {
+        "bitis": "19.31",
+        "baslangic": "18.45",
+        "kapali": false
+      },
+      {
+        "bitis": "20.50",
+        "baslangic": "20.32",
+        "kapali": false
+      },
+      {
+        "bitis": "21.26",
+        "baslangic": "20.57",
+        "kapali": false
+      },
+      {
+        "bitis": "21.56",
+        "baslangic": "21.34",
+        "kapali": false
+      },
+      {
+        "bitis": "22.29",
+        "baslangic": "22.03",
+        "kapali": false
+      },
+      {
+        "bitis": "23.46",
+        "baslangic": "22.34",
+        "kapali": false
+      },
+      {
+        "bitis": "00.56",
+        "baslangic": "23.59",
+        "kapali": false
+      },
+      {
+        "bitis": "01.21",
+        "baslangic": "01.00",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "19-02-2014, Wed",
+    "dosya": "064"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.36",
+        "baslangic": "14.02",
+        "kapali": false
+      },
+      {
+        "bitis": "18.01",
+        "baslangic": "16.53",
+        "kapali": false
+      },
+      {
+        "bitis": "19.03",
+        "baslangic": "18.08",
+        "kapali": false
+      },
+      {
+        "bitis": "20.03",
+        "baslangic": "20.02",
+        "kapali": false
+      },
+      {
+        "bitis": "20.41",
+        "baslangic": "20.15",
+        "kapali": false
+      },
+      {
+        "bitis": "22.07",
+        "baslangic": "20.48",
+        "kapali": false
+      },
+      {
+        "bitis": "22.38",
+        "baslangic": "22.14",
+        "kapali": false
+      },
+      {
+        "bitis": "00.37",
+        "baslangic": "22.45",
+        "kapali": false
+      },
+      {
+        "bitis": "02.56",
+        "baslangic": "00.47",
+        "kapali": false
+      },
+      {
+        "bitis": "04.31",
+        "baslangic": "03.23",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "20-02-2014, Thu",
+    "dosya": "065"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.11",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "14.52",
+        "baslangic": "14.23",
+        "kapali": false
+      },
+      {
+        "bitis": "15.04",
+        "baslangic": "15.03",
+        "kapali": false
+      },
+      {
+        "bitis": "15.52",
+        "baslangic": "15.16",
+        "kapali": false
+      },
+      {
+        "bitis": "16.50",
+        "baslangic": "16.03",
+        "kapali": false
+      },
+      {
+        "bitis": "17.33",
+        "baslangic": "17.00",
+        "kapali": false
+      },
+      {
+        "bitis": "18.06",
+        "baslangic": "17.47",
+        "kapali": false
+      },
+      {
+        "bitis": "19.39",
+        "baslangic": "18.46",
+        "kapali": false
+      },
+      {
+        "bitis": "21.33",
+        "baslangic": "20.34",
+        "kapali": false
+      },
+      {
+        "bitis": "22.22",
+        "baslangic": "21.45",
+        "kapali": false
+      },
+      {
+        "bitis": "23.01",
+        "baslangic": "22.27",
+        "kapali": false
+      },
+      {
+        "bitis": "23.04",
+        "baslangic": "23.03",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "21-02-2014, Fri",
+    "dosya": "066"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.08",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "16.36",
+        "baslangic": "16.20",
+        "kapali": false
+      },
+      {
+        "bitis": "19.17",
+        "baslangic": "16.43",
+        "kapali": false
+      },
+      {
+        "bitis": "21.08",
+        "baslangic": "20.19",
+        "kapali": false
+      },
+      {
+        "bitis": "22.01",
+        "baslangic": "21.21",
+        "kapali": false
+      },
+      {
+        "bitis": "23.44",
+        "baslangic": "22.43",
+        "kapali": false
+      },
+      {
+        "bitis": "01.18",
+        "baslangic": "23.55",
+        "kapali": false
+      },
+      {
+        "bitis": "02.36",
+        "baslangic": "01.43",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "25-02-2014, Tue",
+    "dosya": "067"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.06",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "",
+        "baslangic": "",
+        "kapali": true
+      },
+      {
+        "bitis": "16.02",
+        "baslangic": "14.23",
+        "kapali": false
+      },
+      {
+        "bitis": "17.55",
+        "baslangic": "16.16",
+        "kapali": false
+      },
+      {
+        "bitis": "19.16",
+        "baslangic": "18.08",
+        "kapali": false
+      },
+      {
+        "bitis": "20.41",
+        "baslangic": "20.18",
+        "kapali": false
+      },
+      {
+        "bitis": "22.53",
+        "baslangic": "21.13",
+        "kapali": false
+      },
+      {
+        "bitis": "00.29",
+        "baslangic": "23.08",
+        "kapali": false
+      },
+      {
+        "bitis": "01.04",
+        "baslangic": "00.47",
+        "kapali": false
+      },
+      {
+        "bitis": "01.08",
+        "baslangic": "01.07",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": true,
+    "tarih": "26-02-2014, Wed",
+    "dosya": "068"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.44",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "17.50",
+        "baslangic": "17.03",
+        "kapali": false
+      },
+      {
+        "bitis": "19.24",
+        "baslangic": "17.57",
+        "kapali": false
+      },
+      {
+        "bitis": "19.30",
+        "baslangic": "19.29",
+        "kapali": false
+      },
+      {
+        "bitis": "20.47",
+        "baslangic": "20.33",
+        "kapali": false
+      },
+      {
+        "bitis": "22.14",
+        "baslangic": "20.56",
+        "kapali": false
+      },
+      {
+        "bitis": "23.21",
+        "baslangic": "22.23",
+        "kapali": false
+      },
+      {
+        "bitis": "00.27",
+        "baslangic": "00.26",
+        "kapali": false
+      },
+      {
+        "bitis": "00.46",
+        "baslangic": "00.36",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "27-02-2014, Thu",
+    "dosya": "069"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.18",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "16.12",
+        "baslangic": "15.30",
+        "kapali": false
+      },
+      {
+        "bitis": "18.56",
+        "baslangic": "16.23",
+        "kapali": false
+      },
+      {
+        "bitis": "20.04",
+        "baslangic": "19.56",
+        "kapali": false
+      },
+      {
+        "bitis": "21.04",
+        "baslangic": "20.18",
+        "kapali": false
+      },
+      {
+        "bitis": "23.44",
+        "baslangic": "21.15",
+        "kapali": false
+      },
+      {
+        "bitis": "01.31",
+        "baslangic": "00.05",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "28-02-2014, Fri",
+    "dosya": "070"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.34",
+        "baslangic": "14.02",
+        "kapali": false
+      },
+      {
+        "bitis": "18.14",
+        "baslangic": "16.51",
+        "kapali": false
+      },
+      {
+        "bitis": "19.11",
+        "baslangic": "18.26",
+        "kapali": false
+      },
+      {
+        "bitis": "21.49",
+        "baslangic": "20.11",
+        "kapali": false
+      },
+      {
+        "bitis": "23.56",
+        "baslangic": "21.59",
+        "kapali": false
+      },
+      {
+        "bitis": "00.34",
+        "baslangic": "00.05",
+        "kapali": false
+      },
+      {
+        "bitis": "00.55",
+        "baslangic": "00.40",
+        "kapali": false
+      },
+      {
+        "bitis": "01.35",
+        "baslangic": "01.08",
+        "kapali": false
+      },
+      {
+        "bitis": "02.08",
+        "baslangic": "01.41",
+        "kapali": false
+      },
+      {
+        "bitis": "04.11",
+        "baslangic": "02.11",
+        "kapali": false
+      },
+      {
+        "bitis": "04.49",
+        "baslangic": "04.20",
+        "kapali": false
+      },
+      {
+        "bitis": "05.33",
+        "baslangic": "04.55",
+        "kapali": false
+      },
+      {
+        "bitis": "06.22",
+        "baslangic": "05.38",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "01-03-2014, Sat",
+    "dosya": "071"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.06",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "17.23",
+        "baslangic": "16.49",
+        "kapali": false
+      },
+      {
+        "bitis": "19.04",
+        "baslangic": "17.31",
+        "kapali": false
+      },
+      {
+        "bitis": "20.09",
+        "baslangic": "19.18",
+        "kapali": false
+      },
+      {
+        "bitis": "20.19",
+        "baslangic": "20.14",
+        "kapali": false
+      },
+      {
+        "bitis": "21.11",
+        "baslangic": "20.34",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "19-03-2014, Wed",
+    "dosya": "072"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.15",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "17.27",
+        "baslangic": "16.51",
+        "kapali": false
+      },
+      {
+        "bitis": "18.19",
+        "baslangic": "17.41",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "08-04-2014, Tue",
+    "dosya": "073"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.44",
+        "baslangic": "14.03",
+        "kapali": false
+      },
+      {
+        "bitis": "16.14",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "17.01",
+        "baslangic": "16.38",
+        "kapali": false
+      },
+      {
+        "bitis": "18.20",
+        "baslangic": "17.34",
+        "kapali": false
+      },
+      {
+        "bitis": "18.59",
+        "baslangic": "18.34",
+        "kapali": false
+      },
+      {
+        "bitis": "20.57",
+        "baslangic": "19.08",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "09-04-2014, Wed",
+    "dosya": "074"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.57",
+        "baslangic": "14.02",
+        "kapali": false
+      },
+      {
+        "bitis": "15.23",
+        "baslangic": "15.20",
+        "kapali": false
+      },
+      {
+        "bitis": "16.28",
+        "baslangic": "15.34",
+        "kapali": false
+      },
+      {
+        "bitis": "16.58",
+        "baslangic": "16.43",
+        "kapali": false
+      },
+      {
+        "bitis": "18.20",
+        "baslangic": "17.16",
+        "kapali": false
+      },
+      {
+        "bitis": "18.50",
+        "baslangic": "18.40",
+        "kapali": false
+      },
+      {
+        "bitis": "19.26",
+        "baslangic": "18.58",
+        "kapali": false
+      },
+      {
+        "bitis": "20.21",
+        "baslangic": "20.09",
+        "kapali": false
+      },
+      {
+        "bitis": "20.29",
+        "baslangic": "20.28",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "10-04-2014, Thu",
+    "dosya": "075"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.49",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "17.06",
+        "baslangic": "16.03",
+        "kapali": false
+      },
+      {
+        "bitis": "17.48",
+        "baslangic": "17.24",
+        "kapali": false
+      },
+      {
+        "bitis": "18.52",
+        "baslangic": "18.01",
+        "kapali": false
+      },
+      {
+        "bitis": "18.54",
+        "baslangic": "18.53",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "15-04-2014, Tue",
+    "dosya": "076"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.08",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "16.50",
+        "baslangic": "15.28",
+        "kapali": false
+      },
+      {
+        "bitis": "17.21",
+        "baslangic": "17.04",
+        "kapali": false
+      },
+      {
+        "bitis": "19.03",
+        "baslangic": "17.34",
+        "kapali": false
+      },
+      {
+        "bitis": "19.47",
+        "baslangic": "19.15",
+        "kapali": false
+      },
+      {
+        "bitis": "20.55",
+        "baslangic": "19.59",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "16-04-2014, Wed",
+    "dosya": "077"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.32",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "15.34",
+        "baslangic": "14.49",
+        "kapali": false
+      },
+      {
+        "bitis": "16.02",
+        "baslangic": "15.49",
+        "kapali": false
+      },
+      {
+        "bitis": "17.56",
+        "baslangic": "16.14",
+        "kapali": false
+      },
+      {
+        "bitis": "19.31",
+        "baslangic": "18.12",
+        "kapali": false
+      },
+      {
+        "bitis": "20.16",
+        "baslangic": "20.03",
+        "kapali": false
+      },
+      {
+        "bitis": "20.27",
+        "baslangic": "20.26",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "17-04-2014, Thu",
+    "dosya": "078"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.45",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "19.49",
+        "baslangic": "16.55",
+        "kapali": false
+      },
+      {
+        "bitis": "20.06",
+        "baslangic": "20.00",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "22-04-2014, Tue",
+    "dosya": "079"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.13",
+        "baslangic": "14.00",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "23-04-2014, Wed",
+    "dosya": "080"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.38",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "16.14",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "16.22",
+        "baslangic": "16.19",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "24-04-2014, Thu",
+    "dosya": "081"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.47",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "18.28",
+        "baslangic": "16.58",
+        "kapali": false
+      },
+      {
+        "bitis": "19.58",
+        "baslangic": "18.51",
+        "kapali": false
+      },
+      {
+        "bitis": "20.59",
+        "baslangic": "20.11",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "29-04-2014, Tue",
+    "dosya": "082"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.53",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "15.48",
+        "baslangic": "15.05",
+        "kapali": false
+      },
+      {
+        "bitis": "18.54",
+        "baslangic": "16.07",
+        "kapali": false
+      },
+      {
+        "bitis": "20.21",
+        "baslangic": "19.21",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "30-04-2014, Wed",
+    "dosya": "083"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.31",
+        "baslangic": "14.03",
+        "kapali": false
+      },
+      {
+        "bitis": "15.55",
+        "baslangic": "15.01",
+        "kapali": false
+      },
+      {
+        "bitis": "17.13",
+        "baslangic": "16.19",
+        "kapali": false
+      },
+      {
+        "bitis": "18.57",
+        "baslangic": "17.35",
+        "kapali": false
+      },
+      {
+        "bitis": "20.28",
+        "baslangic": "19.13",
+        "kapali": false
+      },
+      {
+        "bitis": "22.23",
+        "baslangic": "21.31",
+        "kapali": false
+      },
+      {
+        "bitis": "23.04",
+        "baslangic": "22.37",
+        "kapali": false
+      },
+      {
+        "bitis": "01.11",
+        "baslangic": "23.16",
+        "kapali": false
+      },
+      {
+        "bitis": "02.59",
+        "baslangic": "01.29",
+        "kapali": false
+      },
+      {
+        "bitis": "04.41",
+        "baslangic": "03.12",
+        "kapali": false
+      },
+      {
+        "bitis": "05.49",
+        "baslangic": "04.59",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "05-05-2014, Mon",
+    "dosya": "084"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.05",
+        "baslangic": "15.04",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "06-05-2014, Tue",
+    "dosya": "085"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.05",
+        "baslangic": "14.01",
+        "kapali": false
+      },
+      {
+        "bitis": "16.21",
+        "baslangic": "14.18",
+        "kapali": false
+      },
+      {
+        "bitis": "17.21",
+        "baslangic": "16.33",
+        "kapali": false
+      },
+      {
+        "bitis": "19.47",
+        "baslangic": "17.34",
+        "kapali": false
+      },
+      {
+        "bitis": "19.58",
+        "baslangic": "19.57",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "07-05-2014, Wed",
+    "dosya": "086"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.04",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "15.05",
+        "baslangic": "14.17",
+        "kapali": false
+      },
+      {
+        "bitis": "15.49",
+        "baslangic": "15.21",
+        "kapali": false
+      },
+      {
+        "bitis": "16.47",
+        "baslangic": "16.03",
+        "kapali": false
+      },
+      {
+        "bitis": "16.57",
+        "baslangic": "16.54",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "08-05-2014, Thu",
+    "dosya": "087"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.49",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "18.45",
+        "baslangic": "17.03",
+        "kapali": false
+      },
+      {
+        "bitis": "19.26",
+        "baslangic": "19.24",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "13-05-2014, Tue",
+    "dosya": "088"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.07",
+        "baslangic": "14.00",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "14-05-2014, Wed",
+    "dosya": "089"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "17.00",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "18.43",
+        "baslangic": "17.13",
+        "kapali": false
+      },
+      {
+        "bitis": "19.26",
+        "baslangic": "18.58",
+        "kapali": false
+      },
+      {
+        "bitis": "19.56",
+        "baslangic": "19.54",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "20-05-2014, Tue",
+    "dosya": "090"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.22",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "18.03",
+        "baslangic": "16.29",
+        "kapali": false
+      },
+      {
+        "bitis": "19.02",
+        "baslangic": "18.11",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "21-05-2014, Wed",
+    "dosya": "091"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.33",
+        "baslangic": "14.02",
+        "kapali": false
+      },
+      {
+        "bitis": "17.48",
+        "baslangic": "14.59",
+        "kapali": false
+      },
+      {
+        "bitis": "19.34",
+        "baslangic": "18.02",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "22-05-2014, Thu",
+    "dosya": "092"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.04",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "17.04",
+        "baslangic": "15.16",
+        "kapali": false
+      },
+      {
+        "bitis": "19.23",
+        "baslangic": "17.40",
+        "kapali": false
+      },
+      {
+        "bitis": "22.06",
+        "baslangic": "20.16",
+        "kapali": false
+      },
+      {
+        "bitis": "22.13",
+        "baslangic": "22.12",
+        "kapali": false
+      },
+      {
+        "bitis": "22.19",
+        "baslangic": "22.18",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "27-05-2014, Tue",
+    "dosya": "093"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.37",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "19.01",
+        "baslangic": "16.04",
+        "kapali": false
+      },
+      {
+        "bitis": "20.31",
+        "baslangic": "19.21",
+        "kapali": false
+      },
+      {
+        "bitis": "20.35",
+        "baslangic": "20.35",
+        "kapali": false
+      },
+      {
+        "bitis": "20.40",
+        "baslangic": "20.39",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "28-05-2014, Wed",
+    "dosya": "094"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.04",
+        "baslangic": "14.02",
+        "kapali": false
+      },
+      {
+        "bitis": "14.19",
+        "baslangic": "14.15",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "29-05-2014, Thu",
+    "dosya": "095"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "16.16",
+        "baslangic": "15.03",
+        "kapali": false
+      },
+      {
+        "bitis": "17.06",
+        "baslangic": "16.23",
+        "kapali": false
+      },
+      {
+        "bitis": "18.01",
+        "baslangic": "17.19",
+        "kapali": false
+      },
+      {
+        "bitis": "19.01",
+        "baslangic": "18.16",
+        "kapali": false
+      },
+      {
+        "bitis": "20.59",
+        "baslangic": "19.38",
+        "kapali": false
+      },
+      {
+        "bitis": "22.19",
+        "baslangic": "21.09",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "03-06-2014, Tue",
+    "dosya": "096"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.39",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "16.04",
+        "baslangic": "15.53",
+        "kapali": false
+      },
+      {
+        "bitis": "17.12",
+        "baslangic": "16.17",
+        "kapali": false
+      },
+      {
+        "bitis": "19.16",
+        "baslangic": "17.26",
+        "kapali": false
+      },
+      {
+        "bitis": "21.10",
+        "baslangic": "20.18",
+        "kapali": false
+      },
+      {
+        "bitis": "21.28",
+        "baslangic": "21.16",
+        "kapali": false
+      },
+      {
+        "bitis": "22.06",
+        "baslangic": "21.43",
+        "kapali": false
+      },
+      {
+        "bitis": "22.24",
+        "baslangic": "22.12",
+        "kapali": false
+      },
+      {
+        "bitis": "22.46",
+        "baslangic": "22.33",
+        "kapali": false
+      },
+      {
+        "bitis": "23.41",
+        "baslangic": "23.08",
+        "kapali": false
+      },
+      {
+        "bitis": "23.45",
+        "baslangic": "23.44",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "04-06-2014, Wed",
+    "dosya": "097"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.33",
+        "baslangic": "14.03",
+        "kapali": false
+      },
+      {
+        "bitis": "15.46",
+        "baslangic": "15.45",
+        "kapali": false
+      },
+      {
+        "bitis": "16.22",
+        "baslangic": "15.58",
+        "kapali": false
+      },
+      {
+        "bitis": "17.09",
+        "baslangic": "16.29",
+        "kapali": false
+      },
+      {
+        "bitis": "17.19",
+        "baslangic": "17.18",
+        "kapali": false
+      },
+      {
+        "bitis": "17.53",
+        "baslangic": "17.33",
+        "kapali": false
+      },
+      {
+        "bitis": "19.17",
+        "baslangic": "18.04",
+        "kapali": false
+      },
+      {
+        "bitis": "20.43",
+        "baslangic": "20.17",
+        "kapali": false
+      },
+      {
+        "bitis": "20.59",
+        "baslangic": "20.56",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "05-06-2014, Thu",
+    "dosya": "098"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "14.17",
+        "baslangic": "14.00",
+        "kapali": false
+      },
+      {
+        "bitis": "14.30",
+        "baslangic": "14.29",
+        "kapali": false
+      },
+      {
+        "bitis": "14.52",
+        "baslangic": "14.41",
+        "kapali": false
+      },
+      {
+        "bitis": "15.41",
+        "baslangic": "15.07",
+        "kapali": false
+      },
+      {
+        "bitis": "15.56",
+        "baslangic": "15.49",
+        "kapali": false
+      },
+      {
+        "bitis": "17.06",
+        "baslangic": "16.03",
+        "kapali": false
+      },
+      {
+        "bitis": "17.34",
+        "baslangic": "17.21",
+        "kapali": false
+      },
+      {
+        "bitis": "18.26",
+        "baslangic": "17.45",
+        "kapali": false
+      },
+      {
+        "bitis": "18.47",
+        "baslangic": "18.39",
+        "kapali": false
+      },
+      {
+        "bitis": "19.06",
+        "baslangic": "18.52",
+        "kapali": false
+      },
+      {
+        "bitis": "20.17",
+        "baslangic": "20.02",
+        "kapali": false
+      },
+      {
+        "bitis": "21.10",
+        "baslangic": "20.28",
+        "kapali": false
+      },
+      {
+        "bitis": "21.12",
+        "baslangic": "21.11",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "06-06-2014, Fri",
+    "dosya": "099"
+  },
+  {
+    "oturumlar": [
+      {
+        "bitis": "15.24",
+        "baslangic": "15.00",
+        "kapali": false
+      },
+      {
+        "bitis": "16.56",
+        "baslangic": "15.40",
+        "kapali": false
+      },
+      {
+        "bitis": "19.08",
+        "baslangic": "17.15",
+        "kapali": false
+      },
+      {
+        "bitis": "20.13",
+        "baslangic": "20.11",
+        "kapali": false
+      },
+      {
+        "bitis": "20.29",
+        "baslangic": "20.23",
+        "kapali": false
+      },
+      {
+        "bitis": "21.17",
+        "baslangic": "20.43",
+        "kapali": false
+      },
+      {
+        "bitis": "22.59",
+        "baslangic": "21.26",
+        "kapali": false
+      },
+      {
+        "bitis": "23.23",
+        "baslangic": "23.16",
+        "kapali": false
+      },
+      {
+        "bitis": "01.29",
+        "baslangic": "23.29",
+        "kapali": false
+      },
+      {
+        "bitis": "01.33",
+        "baslangic": "01.31",
+        "kapali": false
+      }
+    ],
+    "kapaliVar": false,
+    "tarih": "10-06-2014, Tue",
+    "dosya": "100"
   }
 ]
